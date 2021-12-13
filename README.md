@@ -1,7 +1,8 @@
-# 🏗️ README_Generator
+# 🏗️ social_network1
 ## Description
-    
-The application uses node.js / npm 'inquire' package. This application generates README.md file that takes simple user command line input without accessing any browser function.
+    This repository is to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
+
+    This use Express.js for routing, a MongoDB database, and the Mongoose ODM. This also optionally use a JavaScript date library of the choice or the native JavaScript Date object to format timestamps.
 
 ## Table of Contents
 
@@ -16,32 +17,29 @@ The application uses node.js / npm 'inquire' package. This application generates
 - [Language](#language)
 
 ## Installation
+   Due to on going process of building the apprication, installation is not avalable to public now.
 
-1)Please send pull request (or clone) from my github site. 2)You need to install node.js on your root. 3) command from your command line will install nessesary node package and dependancies.
 
 ## Usage
+User Story:
+AS A social media startup
+I WANT an API for my social network that uses a NoSQL database
+SO THAT my website can handle large amounts of unstructured data
 
-1)After pull (or clone) repository simply run command on your command line. 2)You will guided by asking questions, such as what is your repository name?, so please answer the questions, and hit enter key. 3)This prompts will generate your README.md file.
 
 ## License
 ![unlicensed](https://img.shields.io/badge/license-%24%7Blicense%7D-green)
 
 
 ## Contributing
-
-undefined
+Undefined
 
 ## Tests
-
-In progress
-
+In prgress with application (Insomnia)
 
 ## How to ask questions
-GitHub User Name : KumiYAM ("https://github.com/KumiYAM')
-
-
-
+GitHub User Name :  ("https://github.com/KumiYAM")
 
 ## Language
+![JavaScript](https://img.shields.io/badge/)
 
-![javascript](https://img.shields.io/badge/language-$%7Blanguage%7D-yellow)
